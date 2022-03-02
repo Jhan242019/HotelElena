@@ -90,3 +90,7 @@ E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Releas
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Release\ProyectoHotel.csproj.CopyComplete
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Release\ProyectoHotel.dll
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Release\ProyectoHotel.pdb
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.dll
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.SqlServer.dll
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.xml
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.SqlServer.xml

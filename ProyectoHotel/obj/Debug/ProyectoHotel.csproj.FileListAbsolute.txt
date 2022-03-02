@@ -182,3 +182,7 @@ E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Debug\
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Debug\ProyectoHotel.csproj.CopyComplete
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Debug\ProyectoHotel.dll
 E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\obj\Debug\ProyectoHotel.pdb
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.dll
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.SqlServer.dll
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.xml
+E:\ESTUDIOS\PROYECTOS\SISTEMA DE GESTION HOTEL\Proyecto\ProyectoHotel\bin\EntityFramework.SqlServer.xml
